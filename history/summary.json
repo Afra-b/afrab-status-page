@@ -22,7 +22,7 @@
     "url": "https://afrab-dev-api-v1.onrender.com/api/swagger/",
     "icon": "https://icons.duckduckgo.com/ip3/afrab-dev-api-v1.onrender.com.ico",
     "slug": "afrab-s-api-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "98.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.98%",
@@ -34,6 +34,7 @@
     "timeMonth": 2283,
     "timeYear": 2283,
     "dailyMinutesDown": {
+      "2025-03-06": 0,
       "2025-03-04": 35,
       "2025-03-01": 16,
       "2025-02-28": 18,
