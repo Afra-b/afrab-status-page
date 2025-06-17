@@ -1,7 +1,7 @@
 url: https://afrab-dev-api-v1.onrender.com/api/swagger/
-status: up
-code: 200
-responseTime: 22707
-lastUpdated: 2025-06-16T23:18:53.688Z
+status: down
+code: 503
+responseTime: 290
+lastUpdated: 2025-06-17T08:51:25.226Z
 startTime: 2025-02-19T13:24:41.027Z
 generator: Upptime <https://github.com/upptime/upptime>
