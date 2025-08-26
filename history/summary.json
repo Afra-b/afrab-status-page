@@ -4,7 +4,7 @@
     "url": "https://website-three-iota-94.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/website-three-iota-94.vercel.app.ico",
     "slug": "afrab-s-main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 164,
     "timeYear": 160,
     "dailyMinutesDown": {
+      "2025-08-26": 0,
       "2025-07-28": 19,
       "2025-07-07": 24
     }
