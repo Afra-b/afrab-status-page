@@ -4,7 +4,7 @@
     "url": "https://website-three-iota-94.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/website-three-iota-94.vercel.app.ico",
     "slug": "afrab-s-main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
@@ -16,6 +16,7 @@
     "timeMonth": 151,
     "timeYear": 158,
     "dailyMinutesDown": {
+      "2025-08-28": 0,
       "2025-08-26": 22,
       "2025-07-28": 19,
       "2025-07-07": 24
@@ -27,18 +28,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/afrab-dev-api-v1.onrender.com.ico",
     "slug": "afrab-s-api-docs",
     "status": "up",
-    "uptime": "98.84%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.10%",
-    "uptimeYear": "98.84%",
+    "uptime": "98.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "98.80%",
     "time": 3223,
     "timeDay": 255,
     "timeWeek": 2656,
     "timeMonth": 2945,
     "timeYear": 3223,
     "dailyMinutesDown": {
-      "2025-08-28": 15,
       "2025-08-25": 25,
       "2025-08-22": 24,
       "2025-08-21": 23,
@@ -114,7 +114,7 @@
       "2025-03-13": 26,
       "2025-03-11": 29,
       "2025-03-10": 25,
-      "2025-03-06": 56
+      "2025-03-06": 196
     }
   }
 ]
