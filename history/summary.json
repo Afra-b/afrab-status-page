@@ -36,16 +36,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/afrab-dev-api-v1.onrender.com.ico",
     "slug": "afrab-s-api-docs",
     "status": "down",
-    "uptime": "99.35%",
-    "uptimeDay": "94.91%",
+    "uptime": "99.36%",
+    "uptimeDay": "96.82%",
     "uptimeWeek": "95.84%",
-    "uptimeMonth": "98.30%",
-    "uptimeYear": "99.35%",
-    "time": 2953,
-    "timeDay": 5290,
-    "timeWeek": 1850,
-    "timeMonth": 2846,
-    "timeYear": 2953,
+    "uptimeMonth": "98.38%",
+    "uptimeYear": "99.36%",
+    "time": 2962,
+    "timeDay": 8540,
+    "timeWeek": 2103,
+    "timeMonth": 3018,
+    "timeYear": 2962,
     "dailyMinutesDown": {
       "2025-12-11": 45,
       "2025-12-10": 28,
@@ -120,7 +120,7 @@
       "2025-06-21": 52,
       "2025-06-20": 30,
       "2025-06-19": 21,
-      "2025-06-17": 59
+      "2025-06-17": 22
     }
   }
 ]
