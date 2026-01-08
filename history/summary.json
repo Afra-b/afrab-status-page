@@ -11,9 +11,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
     "time": 161,
-    "timeDay": 120,
-    "timeWeek": 105,
-    "timeMonth": 116,
+    "timeDay": 92,
+    "timeWeek": 96,
+    "timeMonth": 115,
     "timeYear": 161,
     "dailyMinutesDown": {
       "2025-12-09": 30,
@@ -37,17 +37,16 @@
     "slug": "afrab-s-api-docs",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "95.95%",
-    "uptimeMonth": "95.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.05%",
+    "uptimeMonth": "95.54%",
     "uptimeYear": "99.31%",
-    "time": 2921,
-    "timeDay": 394,
-    "timeWeek": 4587,
-    "timeMonth": 2758,
-    "timeYear": 2921,
+    "time": 2917,
+    "timeDay": 333,
+    "timeWeek": 4594,
+    "timeMonth": 2759,
+    "timeYear": 2917,
     "dailyMinutesDown": {
-      "2026-01-07": 11,
       "2026-01-06": 26,
       "2026-01-05": 47,
       "2026-01-04": 162,
@@ -109,7 +108,7 @@
       "2025-09-30": 19,
       "2025-09-26": 17,
       "2025-09-23": 53,
-      "2025-09-22": 23
+      "2025-09-22": 48
     }
   }
 ]
