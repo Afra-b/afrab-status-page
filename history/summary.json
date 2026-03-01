@@ -36,17 +36,17 @@
     "url": "https://afrab-dev-api-v1.onrender.com/api/swagger/",
     "icon": "https://icons.duckduckgo.com/ip3/afrab-dev-api-v1.onrender.com.ico",
     "slug": "afrab-s-api-docs",
-    "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "92.56%",
-    "uptimeWeek": "87.13%",
+    "status": "down",
+    "uptime": "99.09%",
+    "uptimeDay": "95.72%",
+    "uptimeWeek": "87.42%",
     "uptimeMonth": "91.70%",
     "uptimeYear": "99.06%",
     "time": 3417,
-    "timeDay": 964,
-    "timeWeek": 5207,
+    "timeDay": 1297,
+    "timeWeek": 5367,
     "timeMonth": 6649,
-    "timeYear": 3440,
+    "timeYear": 3443,
     "dailyMinutesDown": {
       "2026-03-01": 61,
       "2026-02-28": 64,
@@ -87,8 +87,7 @@
       "2026-01-19": 58,
       "2026-01-18": 30,
       "2026-01-16": 15,
-      "2026-01-15": 26,
-      "2026-01-11": 33
+      "2026-01-15": 26
     }
   }
 ]
